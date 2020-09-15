@@ -1,2 +1,4 @@
 # WeightBox
  Final Project for course CS-412
+
+This is my final project for CS-412 Computer systems and programs.  This involves the Arduino Uno R3.  This project was made by setting up the correct connections on the Arduino board with its attachments.  The arduino board is connect to a box/bin that opens when it senses movement in front of the motion sensors placed in the front.  After being opened a number of times, the box will remain shut and not open for an extended period of time.  This project was made to portion and discipline items/belongings that require extra effort.  Additionally, with a few tweaks in the code, this can be made into a simple motion sensed garbage bin as well!
